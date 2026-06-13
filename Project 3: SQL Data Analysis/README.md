@@ -80,8 +80,10 @@ ORDER BY DeliveredRevenue DESC;
 |Most-used payment method    |[from PaymentMethod result]   |
 |Highest-revenue order status|[from Orderstatus result]     |
 
-![E-Commerce Sales DB1](E-Commerce-Sales-DB1.png)
-![E-Commerce Sales DB2](E-Commerce-Sales-DB2.png)
+![E-Commerce sales DB1](E-Commerce sales DB1.png)
+
+
+![E-Commerce sales DB2](E-Commerce sales DB2.png)
 
 ## Outcome
 
@@ -90,5 +92,5 @@ SQL queries successfully extracted order-level, product-level, and payment-level
 ## Files
 
 - E-Commerce Sales Data.sql
-- ⁠E-Commerce Sales DB1.png
-- ⁠E-Commerce Sales DB2.png
+- ⁠E-Commerce sales DB1.png
+- ⁠E-Commerce sales DB2.png
