@@ -17,7 +17,7 @@ Build an interactive dashboard that communicates sales performance, customer beh
 
 ## Dashboard
 
-![E-Commerce Sales Analysis Dashboard_Insight(DCLIP)](E-Commerce%20Sales%20Analysis%20Dashboard%20Insight(DCLIP).png)
+![E-Commerce Sales Analysis Dashboard(DCLIP)](E-Commerce%20Sales%20Analysis%20Dashboard(DCLIP).png)
 
 ## Key Findings
 
@@ -47,7 +47,7 @@ Build an interactive dashboard that communicates sales performance, customer beh
 
 ## Key Insights
 
-![Key Insights](E-Commerce_Sales_Analysis_Dashboard_Insight_DCLIP_.png)
+![E-Commerce Sales Analysis Dashboard_Insight(DCLIP)](E-Commerce%20Sales%20Analysis%20Dashboard%20Insight(DCLIP).png)
 
 **Fulfilment crisis:** 41.41% of all orders are Cancelled or Returned combined, while the Delivered rate sits at just 19.25% — the lowest of all order statuses. This points to a serious operational issue worth investigating (e.g. inventory, shipping, fraud, or payment failures).
 
