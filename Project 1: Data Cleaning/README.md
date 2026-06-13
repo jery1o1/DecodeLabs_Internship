@@ -26,6 +26,9 @@ Audit a raw e-commerce sales dataset for data quality issues and prepare it for 
 |Columns                  |14          |17   |
 |Missing CouponCode values|309 (25.75%)|0    |
 
+![Power Query Steps](Power-query-steps.png)
+
+![Cleaned data](cleaned-data-view.png)
 
 
 ## Outcome
