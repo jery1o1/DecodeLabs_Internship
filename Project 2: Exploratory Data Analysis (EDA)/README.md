@@ -43,5 +43,5 @@ The gap between the mean ($1,053.97) and median ($823.62) order value shows the 
 
 ## Files
 
-- `E-Commerce_Sales_Data 2.xlsx`
+- E-Commerce_Sales_Data 2.xlsx
 - EDA Summary Data.png
