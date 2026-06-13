@@ -1,18 +1,32 @@
 # DecodeLabs Internship 
+
 This repository documents an end-to-end e-commerce data analytics workflow completed during my DecodeLabs internship, covering data cleaning, exploratory data analysis (EDA), SQL analysis, and interactive dashboard development in Power BI
+
+## Analytics Workflow
+
+```mermaid
+flowchart TD
+    A[Raw Data]
+    B[Data Cleaning]
+    C[Exploratory Data Analysis]
+    D[SQL Business Analysis]
+    E[Power BI Dashboard]
+    F[Business Insights & Recommendations]
+
+    A --> B --> C --> D --> E --> F
+```
 
 
 ## Projects
 
 1. **01: Data Cleaning & Preparation** — Excel & Power Query
-   Audited and cleaned a 1,200-order e-commerce dataset, resolving missing CouponCode values and preparing the data for analysis.
+  Audited and cleaned a 1,200 e-commerce dataset by resolving missing CouponCode values, correcting data quality issues, and preparing the data for downstream analysis.
 1. **02: Exploratory Data Analysis (EDA))** — Excel, Pivot Tables, Descriptive Statistics
-   Explored the cleaned dataset to identify revenue patterns, order value distribution, and product performance.
+   Performed exploratory data analysis (EDA) using Excel Pivot Tables and descriptive statistics to identify sales trends, order value distribution, customer behavior, and product performance.
 1. **03: SQL Data Analysis)** — Microsoft SQL Server, SSMS
   Used SQL to answer business questions related to customer purchasing behavior, product performance, payment methods, and order fulfillment with SQL queries (SELECT, WHERE, ORDER BY, GROUP BY, aggregates) to extract order-level, product-level, and payment-level insights.
 1. **04: Data Visualization)** — Power BI, DAX
-   Built an interactive dashboard surfacing key business insights, including a fulfilment/cancellation crisis and a customer retention gap.
-
+   Built an interactive dashboard surfacing key business insights, including highlighting operational challenges, including high cancellation and return rates alongside low customer retention.
 ## Dataset
 
 All projects use the same E-Commerce Sales Dataset (1,200 orders, Jan 2023 – Jun 2025), cleaned and progressively enriched across Projects 1–4.
