@@ -1,6 +1,6 @@
 # DecodeLabs Internship 
+This repository documents an end-to-end e-commerce data analytics workflow completed during my DecodeLabs internship, covering data cleaning, exploratory data analysis (EDA), SQL analysis, and interactive dashboard development in Power BI
 
-This repository contains four data analytics projects completed during my internship at DecodeLabs, covering the full workflow from raw data to business insights: data cleaning, exploratory analysis, SQL querying, and dashboard visualization.
 
 ## Projects
 
@@ -9,7 +9,7 @@ This repository contains four data analytics projects completed during my intern
 1. **02: Exploratory Data Analysis (EDA))** — Excel, Pivot Tables, Descriptive Statistics
    Explored the cleaned dataset to identify revenue patterns, order value distribution, and product performance.
 1. **03: SQL Data Analysis)** — Microsoft SQL Server, SSMS
-   Used SQL queries (SELECT, WHERE, ORDER BY, GROUP BY, aggregates) to extract order-level, product-level, and payment-level insights.
+  Used SQL to answer business questions related to customer purchasing behavior, product performance, payment methods, and order fulfillment with SQL queries (SELECT, WHERE, ORDER BY, GROUP BY, aggregates) to extract order-level, product-level, and payment-level insights.
 1. **04: Data Visualization)** — Power BI, DAX
    Built an interactive dashboard surfacing key business insights, including a fulfilment/cancellation crisis and a customer retention gap.
 
