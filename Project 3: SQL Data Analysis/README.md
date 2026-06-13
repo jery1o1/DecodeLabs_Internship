@@ -18,7 +18,7 @@ Use SQL to query, filter, sort, and aggregate the dataset to extract business in
 
 ## Queries
 
-```sql
+sql
 -- View all records
 SELECT * FROM [E-Commerce Sales];
 
@@ -80,11 +80,8 @@ ORDER BY DeliveredRevenue DESC;
 |Most-used payment method    |[from PaymentMethod result]   |
 |Highest-revenue order status|[from Orderstatus result]     |
 
-![E-Commerce sales DB1](E-Commerce sales DB1.png)
-
-
-![E-Commerce sales DB2](E-Commerce sales DB2.png)
-
+![E-Commerce Sales DB1](E-Commerce-Sales-DB1.png)
+![E-Commerce Sales DB2](E-Commerce-Sales-DB2.png)
 
 ## Outcome
 
