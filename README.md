@@ -4,13 +4,13 @@ This repository contains four data analytics projects completed during my intern
 
 ## Projects
 
-1. **Project 1: Data Cleaning & Preparation** — Excel & Power Query
+1. **01: Data Cleaning & Preparation** — Excel & Power Query
    Audited and cleaned a 1,200-order e-commerce dataset, resolving missing CouponCode values and preparing the data for analysis.
-1. **Project 2: Exploratory Data Analysis (EDA))** — Excel, Pivot Tables, Descriptive Statistics
+1. **02: Exploratory Data Analysis (EDA))** — Excel, Pivot Tables, Descriptive Statistics
    Explored the cleaned dataset to identify revenue patterns, order value distribution, and product performance.
-1. **Project 3: SQL Data Analysis)** — Microsoft SQL Server, SSMS
+1. **03: SQL Data Analysis)** — Microsoft SQL Server, SSMS
    Used SQL queries (SELECT, WHERE, ORDER BY, GROUP BY, aggregates) to extract order-level, product-level, and payment-level insights.
-1. **Project 4: Data Visualization)** — Power BI, DAX
+1. **04: Data Visualization)** — Power BI, DAX
    Built an interactive dashboard surfacing key business insights, including a fulfilment/cancellation crisis and a customer retention gap.
 
 ## Dataset
