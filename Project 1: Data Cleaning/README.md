@@ -15,8 +15,13 @@ Audit a raw e-commerce sales dataset for data quality issues and prepare it for 
 ## What I Did
 
 1. Audited the dataset for duplicates, missing values, and data type mismatches across all 14 columns
-1. Replaced 309 blank CouponCode values with “NOCOUPONCODE” so the field could be used reliably in grouping and filtering
-1. Extracted Day, Month, and Year into separate columns from the Date field, expanding the dataset to 17 columns — enabling time-intelligence analysis in Project 2
+2. Replaced 309 blank CouponCode values with “NOCOUPONCODE” so the field could be used reliably in grouping and filtering
+
+ 
+ ![Power Query Steps](Power-query-steps.png)
+
+
+3. Extracted Day, Month, and Year into separate columns from the Date field, expanding the dataset to 17 columns — enabling time-intelligence analysis in Project 2
 
 ## Before / After
 
@@ -25,8 +30,6 @@ Audit a raw e-commerce sales dataset for data quality issues and prepare it for 
 |Rows                     |1,200       |1,200|
 |Columns                  |14          |17   |
 |Missing CouponCode values|309 (25.75%)|0    |
-
-![Power Query Steps](Power-query-steps.png)
 
 
 
