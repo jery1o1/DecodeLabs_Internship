@@ -34,4 +34,4 @@ The dataset’s CouponCode field went from 25.75% blank to fully populated, and 
 
 ## Files
 
-- `E-Commerce_Sales_Data.xlsx` (Raw Data, CleanedData, EDA Summary sheets)
+- `E-Commerce_Sales_Data.xlsx` (Raw Data, CleanedData)
