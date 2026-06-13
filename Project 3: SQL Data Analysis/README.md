@@ -1,7 +1,7 @@
 # Project 3: SQL Data Analysis
 
 **Tools:** Microsoft SQL Server, SQL Server Management Studio (SSMS)
-**Dataset:** Cleaned E-Commerce Sales Dataset, imported as `[E-Commerce Sales]` (1,200 orders, 17 columns)
+**Dataset:** Cleaned E-Commerce Sales Dataset, imported as [E-Commerce Sales] (1,200 orders, 17 columns)
 
 ## Goal
 
@@ -9,12 +9,12 @@ Use SQL to query, filter, sort, and aggregate the dataset to extract business in
 
 ## What I Did
 
-1. Viewed and filtered raw data using `SELECT` and `WHERE` (e.g. filtering Delivered orders, orders over $5,000)
-1. Sorted records by TotalPrice using `ORDER BY` (ascending and descending)
-1. Aggregated revenue and quantity by Product using `GROUP BY` with `SUM`
-1. Calculated overall metrics with `COUNT` and `AVG`
+1. Viewed and filtered raw data using SELECT and WHERE (e.g. filtering Delivered orders, orders over $5,000)
+1. Sorted records by TotalPrice using ORDER BY (ascending and descending)
+1. Aggregated revenue and quantity by Product using GROUP BY with SUM
+1. Calculated overall metrics with COUNT and AVG
 1. Analyzed payment method usage, order status revenue, and order volume by date
-1. Combined `WHERE` + `GROUP BY` to find revenue from Delivered orders only, by product
+1. Combined WHERE + GROUP BY to find revenue from Delivered orders only, by product
 
 ## Queries
 
@@ -68,7 +68,7 @@ FROM [E-Commerce Sales]
 WHERE Orderstatus = 'Delivered'
 GROUP BY Product
 ORDER BY DeliveredRevenue DESC;
-```
+
 
 ## Key Findings
 
@@ -89,6 +89,6 @@ SQL queries successfully extracted order-level, product-level, and payment-level
 
 ## Files
 
-- `E-Commerce Sales Data.sql`
+- E-Commerce Sales Data.sql
 - ⁠E-Commerce Sales DB1.png
 - ⁠E-Commerce Sales DB2.png
