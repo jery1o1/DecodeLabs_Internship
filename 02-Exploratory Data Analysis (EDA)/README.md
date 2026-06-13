@@ -35,6 +35,8 @@ Explore the cleaned dataset to identify patterns, trends, and distribution chara
 - Lower bound: -$1,341.41 | Upper bound: $3,330.41
 - No orders fall below the lower bound (not possible with positive prices); high-value orders approaching the upper bound represent the dataset’s outliers
 
+- ![EDA Summary](EDA-Summary-Data.png)
+
 ## Outcome
 
 The gap between the mean ($1,053.97) and median ($823.62) order value shows the distribution is right-skewed — a smaller number of high-value orders pull the average up, while most orders cluster below it. Combined with the quartile analysis, this suggests revenue is concentrated in a subset of larger orders rather than evenly spread, which is useful context for prioritizing high-value customer segments in further analysis.
