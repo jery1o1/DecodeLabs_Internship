@@ -80,10 +80,10 @@ ORDER BY DeliveredRevenue DESC;
 |Most-used payment method    |[from PaymentMethod result]   |
 |Highest-revenue order status|[from Orderstatus result]     |
 
-![E-Commerce sales DB1](E-Commerce sales DB1.png)
+![E-Commerce sales DB1](E-Commerce%20sales%20DB1.png)
 
 
-![E-Commerce sales DB2](E-Commerce sales DB2.png)
+![E-Commerce sales DB2](E-Commerce%20sales%20DB2.png)
 
 ## Outcome
 
