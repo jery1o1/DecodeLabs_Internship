@@ -17,7 +17,7 @@ Build an interactive dashboard that communicates sales performance, customer beh
 
 ## Dashboard
 
-![E-Commerce Sales Analysis Dashboard(DCLIP)](E-Commerce%20Sales%20Analysis%20Dashboard(DCLIP).png
+![E-Commerce Sales Analysis Dashboard(DCLIP)](E-Commerce%20Sales%20Analysis%20Dashboard(DCLIP).png)
 
 ## Key Findings
 
