@@ -35,3 +35,5 @@ The dataset’s CouponCode field went from 25.75% blank to fully populated, and 
 ## Files
 
 - `E-Commerce Sales Data1.xlsx` (Raw Data, CleanedData)
+- Cleaned-data-view.png
+Power-query-steps.png
