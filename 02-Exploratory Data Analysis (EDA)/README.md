@@ -35,7 +35,7 @@ Explore the cleaned dataset to identify patterns, trends, and distribution chara
 - Lower bound: -$1,341.41 | Upper bound: $3,330.41
 - No orders fall below the lower bound (not possible with positive prices); high-value orders approaching the upper bound represent the dataset’s outliers
 
-- ![EDA Summary](EDA-Summary-Data.png)
+- ![EDA Summary](EDA%20Summary%20Data.png)
 
 ## Outcome
 
