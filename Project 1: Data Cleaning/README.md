@@ -28,7 +28,7 @@ Audit a raw e-commerce sales dataset for data quality issues and prepare it for 
 
 ![Power Query Steps](Power-query-steps.png)
 
-![Cleaned data](cleaned-data-view.png)
+![Cleaned data](Cleaned-data-view.png)
 
 
 ## Outcome
